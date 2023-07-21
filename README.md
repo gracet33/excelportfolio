@@ -1,4 +1,3 @@
-# excelportfolio
 My Excel Portfolio 
 
 Project 1: Bike Sale Dashboard 
