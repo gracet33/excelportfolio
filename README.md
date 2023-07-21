@@ -1,4 +1,4 @@
-#My Excel Portfolio 
+My Excel Portfolio 
 
 Project 1: Bike Sale Dashboard 
 Bike Sale dashboard answers the questions of:
