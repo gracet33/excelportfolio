@@ -8,7 +8,9 @@ Bike Sale dashboard answers the questions of:
 This is an interactive dashboard, allowing you to remove variables and compare the values to get a glance of whether the presence of a variable changes sale performance significantly.
 
 
-<bold>Project 2: Supply Chain and Freight Analytics Dashboard</bold>
+---------------------------------------------------------------------
+Project 2: Supply Chain and Freight Analytics Dashboard
+
 This interactive dashboard can help unlock valuable insights, streamline operations, as well as optimize logistics and enhance efficiency.
 Dashboard requirement: 
 1. Customer Insights: Understand retention rates and track new customer acquisition.
