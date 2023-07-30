@@ -1,6 +1,6 @@
-My Excel Portfolio 
+<strong>My Excel Portfolio</strong> 
 
-Project 1: Bike Sale Dashboard 
+<strong>Project 1: Bike Sale Dashboard </strong>
 Bike Sale dashboard answers the questions of:
 1. Which region has the highest sale of bikes?
 2. Does Age Range, Marital Status, Commute Distance, and Income affect customer's purchase of bikes?
@@ -9,7 +9,7 @@ This is an interactive dashboard, allowing you to remove variables and compare t
 
 
 ---------------------------------------------------------------------
-Project 2: Supply Chain and Freight Analytics Dashboard
+<strong>Project 2: Supply Chain and Freight Analytics Dashboard</strong>
 
 This interactive dashboard can help unlock valuable insights, streamline operations, as well as optimize logistics and enhance efficiency.
 Dashboard requirement: 
