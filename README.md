@@ -1,6 +1,7 @@
 <strong>My Excel Portfolio</strong> 
 
 <strong>Project 1: Bike Sale Dashboard </strong>
+
 Bike Sale dashboard answers the questions of:
 1. Which region has the highest sale of bikes?
 2. Does Age Range, Marital Status, Commute Distance, and Income affect customer's purchase of bikes?
